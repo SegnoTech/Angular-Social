@@ -1,0 +1,14 @@
+.socialLogin{
+	.socialSignup{
+		// .example-button-row {display: table-cell;width: 490px;}
+		.example-flex-container {display: flex;justify-content: center;flex-wrap: wrap;}
+		.mat-button-wrapper{padding: 0!important;}
+		.fbButton{background-color: #3b5998;}
+		.linkedinButton{background-color: #50abf1;}
+		.twitterButton{background-color: #007ab9;}
+		.githubButton,.googleButton{
+			background-color: #fff;
+			img{width: 55px;}
+		}
+	}
+}
